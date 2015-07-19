@@ -58,6 +58,10 @@ github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
 
+
+
+github "chrome",     "0.2.0", :repo => "boxen/puppet-chrome"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 # github "elasticsearch", "2.7.2"
