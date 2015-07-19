@@ -60,7 +60,7 @@ github "xquartz",     "1.2.1"
 
 
 
-github "chrome",     "0.2.0", :repo => "boxen/puppet-chrome"
+github "chrome",     "1.2.0", :repo => "boxen/puppet-chrome"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
