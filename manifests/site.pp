@@ -57,6 +57,7 @@ node default {
   include git
   include hub
   include nginx
+  include dash
   
 
   # fail if FDE is not enabled
