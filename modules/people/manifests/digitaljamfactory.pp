@@ -32,5 +32,9 @@ class people::digitaljamfactory {
   package { "heroku-toolbelt":
     ensure => present,
   }
+  
+  package { "npm":
+    ensure => present,
+  }
 }
 
