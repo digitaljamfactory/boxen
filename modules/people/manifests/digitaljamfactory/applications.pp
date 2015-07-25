@@ -4,4 +4,5 @@ class people::digitaljamfactory::applications {
   include onepassword
   include onepassword::chrome
   include dropbox 
+  include java 
 }
