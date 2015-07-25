@@ -61,6 +61,7 @@ github "xquartz",     "1.2.1"
 
 
 github "chrome",     "1.2.0", :repo => "boxen/puppet-chrome"
+github "cyberduck",     "1.0.1", :repo => "boxen/puppet-cyberduck"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
