@@ -1,4 +1,5 @@
 class people::digitaljamfactory::applications {
-  include cyberduck
-  include heroku
+  include brewcask
+
+  package {'dropbox': provider => 'brewask'} 
 }
