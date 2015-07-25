@@ -61,6 +61,7 @@ github "xquartz",     "1.2.1"
 
 github "onepassword", "1.1.5"
 github "chrome", "1.2.0"
+github "dropbox", "1.4.1"
 
 github "cyberduck",          "1.1.4", :repo => "johnlauck/puppet-cyberduck"
 
