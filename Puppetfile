@@ -59,7 +59,7 @@ github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
 
 
-github "brewcask", "0.0.6"
+github "cyberduck",          "1.1.4", :repo => "johnlauck/puppet-cyberduck"
 
 
 
